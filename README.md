@@ -21,8 +21,8 @@ Config.Crafting = {
     ["fcookie"] = {
 
         items = {
-                "sugar","dough","sugar",
-                "dough","rollpaper","dough",
+                "empty","dough","empty",
+                "sugar","rollpaper","sugar",
                 "empty","dough","empty"
                 },
         requireJob = "empty",
