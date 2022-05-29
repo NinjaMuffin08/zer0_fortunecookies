@@ -2,6 +2,7 @@
 
 zer0_fortunecookies is a resource for RedM. Built for the "redemrp" framework
 
+## Preview
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/qSiW8onUCyE/0.jpg)](http://www.youtube.com/watch?v=qSiW8onUCyE "Video Title")
 
 ## Dependencies
