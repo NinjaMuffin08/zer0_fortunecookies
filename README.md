@@ -16,7 +16,7 @@ zer0_fortunecookies is a resource for RedM. Built for the "redemrp" framework
 Click the green code button above and download the resource. Extract from the ZIP and move zer0_fortunecookies to your server's resource folder.
 
 ### Add crafting recipe to redemrp_inventory config.lua
-```
+```lua
 Config.Crafting = {
     ["fcookie"] = {
 
@@ -32,7 +32,7 @@ Config.Crafting = {
 }
 ```
 ### Add item redemrp_inventory config.lua
-```
+```lua
 Config.Items = {
     ["fcookie"] =
     {
